@@ -1,0 +1,5 @@
+Almos_news	25
+Almos_news	ABC
+Almos_news	30
+Hourly_show	30
+Hourly_show	COM
